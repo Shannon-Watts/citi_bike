@@ -9,3 +9,9 @@ Click the images below to be taken  to Tablaeu public
 
 ![image](https://user-images.githubusercontent.com/100214297/180296439-12132204-efd4-467a-85d1-98f66691eaf5.png)
 https://public.tableau.com/app/profile/shannon.watts/viz/CitiBikeAnalysis_16576542040980/Ridership?publish=yes
+
+
+
+
+
+https://public.tableau.com/app/profile/shannon.watts/viz/CitiBikeAnalysis_16576542040980/Ridership?publish=yes
