@@ -12,6 +12,4 @@ https://public.tableau.com/app/profile/shannon.watts/viz/CitiBikeAnalysis_165765
 
 
 
-
-
-https://public.tableau.com/app/profile/shannon.watts/viz/CitiBikeAnalysis_16576542040980/Ridership?publish=yes
+https://public.tableau.com/views/CitiBikeAnalysis_16576542040980/Ridership?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
